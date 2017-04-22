@@ -1,3 +1,10 @@
-Seccion 1
-  1
-Seccion 2
+Página de Título
+Hoja de revisión
+Prefacio
+Tabla de contenidos
+Lista de figuras
+Lista de tablas
+I.	Introducción
+  A.	Visión general del proyecto
+El objetivo del proyecto es mejorar una agenda telefónica ya existente para que esta cuente con una interfaz con la imagen corporativa de la universidad…
+  B.	Productos finales
