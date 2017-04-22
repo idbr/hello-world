@@ -7,3 +7,4 @@ Lista de tablas
 I.	Introducción
   A.	Visión general del proyecto
   B.	Productos finales
+Para el cliente se desarrollará una nueva versión de la agenda telefónica…
